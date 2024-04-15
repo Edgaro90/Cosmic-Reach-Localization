@@ -66,4 +66,7 @@
 * Renka
 
 == Danish Localization ==
-* Abcras - https://github.com/abcras 
+* Abcras - https://github.com/abcras
+
+== Latvian Localization ==
+* ELatvija (I LIVE FOR KĀRUMS)
